@@ -1,6 +1,6 @@
 # Why is my internet so slow ?
 
-[![Why is my internet so slow](red.png)](https://computersolve.com/why-is-my-internet-so-slow/)
+[![Why is my internet so slow](red.png)](https://icncomputer.com/why-is-my-internet-so-slow/)
 
 There are many reasons your Internet connection might appear slow. It could be a problem with your modem or router, Wi-Fi signal, signal strength on your cable line, devices on your network saturating your bandwidth, or even a slow DNS server. These troubleshooting steps will help you pin down the cause.
 
